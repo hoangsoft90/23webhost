@@ -171,7 +171,7 @@ body {
 }
 
 .features {
-    color: gray;
+    color: #333;
     padding: 10px 0px;
 }
 
@@ -308,7 +308,7 @@ body {
 }
 
 .login {
-    font-size: 14px;
+    font-size: 15px;
     text-align: right;
 }
 
